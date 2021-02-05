@@ -4,3 +4,6 @@ from django.shortcuts import render
 
 def dashboard(request):
     return HttpResponse('Welcome to alltoys dashboard')
+
+
+
